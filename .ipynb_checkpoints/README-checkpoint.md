@@ -27,6 +27,3 @@ Dado/Exame => Extração de Features => Modelo
 -   Normal: trabalho de parto está ocorrendo normalmente;
 -   Suspeito: o bebê apresenta alguns sinais de risco e deve-se ter uma atenção especial;
 -   Doente: bebê já se encontra em sofrimento fetal e o parto deve ser encaminhado para uma cesariana.
-
-# Sobre Código
-
